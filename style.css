@@ -1,0 +1,14 @@
+
+body{
+    color: #055a1d;
+    background-color: #ffffff;
+    font-family: arial;
+    font-size: 24px;
+    text-align: center;
+}
+img{
+    width: 480px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
